@@ -115,12 +115,10 @@
 <br>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/álvaro-muñoz-álvarez-57bab8297/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="álvaro-muñoz-álvarez-57bab8297" height="40" width="45" /></a>
-&nbsp;<a href="https://dev.to/alvaro-fullstack" target="blank"><img align="center" src="https://res.cloudinary.com/practicaldev/image/fetch/s--0UiMFgbU--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_66%2Cw_880/https://thepracticaldev.s3.amazonaws.com/i/0vbfzhjcsjs0u716x88o.gif" alt="alvaro-fullstack" height="40" width="47" /></a>  
+<a href="https://www.linkedin.com/in/álvaro-muñoz-álvarez-57bab8297/" target="blank"><img align="center" src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif" alt="álvaro-muñoz-álvarez-57bab8297" height="40" width="45" /></a> 
 &nbsp;<a href="mailto:alvaromual13@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif" alt="alvaromual13@gmail.com" width="40" /></a>      
-&nbsp;<a href="https://www.hackerrank.com/alvaro-fullstack" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171338019-50f8c8de-e1ac-4651-b2cf-1901eceb2e51.gif" alt="alvaro-fullstack" height="40" width="45"></a>
-&nbsp;<a href="https://stackoverflow.com/users/19234611" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/171333456-ac1d5e66-bd90-468b-a1bf-c030ba6a1fed.gif" alt="19234611" width="40" />StackOverflow</a>
-&nbsp;<a href="discord:varooo13#2620?add" target="blank"><img align="center" src="https://user-images.githubusercontent.com/86669668/176819343-c1894b0e-8622-4a39-a34c-fd4125d32d4d.gif" alt="alvaro-fullstack" width="40" /></a>
+&nbsp;<a href="https://discord.com/users/varooo13#2620" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Discord" height="40" width="40" style="filter: drop-shadow(0 0 2px #5865F2);" />
+</a>
   
   
 
