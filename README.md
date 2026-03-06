@@ -10,7 +10,9 @@
 
 ## <img src="https://c.tenor.com/NCRHhqkXrJYAAAAi/programmers-go-internet.gif" width="25">  <b>About Me</b>
 
-- 🔭 I’m currently working in `Amazon Logistics` as `Fulfillment Operations`
+- 🚀 Currently focused on: Expanding my Full-Stack expertise and building scalable web applications.
+
+- 💼 Open to Work: Actively seeking new opportunities as a Junior Full-Stack Developer.
 
 - 👯 I’m looking forward to collaborate on open source projects.
 
